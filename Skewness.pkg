@@ -1,0 +1,8 @@
+v 3
+d Skewness
+d Programs to calculate skewness, standard error of skewness, and skewness ratio
+d summskew is used in general situations or with the option ,by
+d summskewcell is used in the situation of a two-way anova
+d Distribution-Date: 4 10 16
+f summskew.ado
+f summskewcell.ado

@@ -1,0 +1,3 @@
+v 3
+d Programs to calculate skew, standard error of skew, and skew ratio
+p Skewness [The summskew.ado and summskewcell.ado programs]
