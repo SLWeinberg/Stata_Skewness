@@ -30,7 +30,7 @@ noi display "For `var2' = " `i' " and `var3' = " `j' ": N = " n             ///
              "; skewness = " %7.3f skew "; seskew = " %7.3f seskew          ///
 	         "; skewness ratio = " %7.3f skew_ratio 
 }
-
+}
 
 end
 exit
