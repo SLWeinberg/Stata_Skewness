@@ -1,1 +1,0 @@
-# Stata_Skewness
