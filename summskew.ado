@@ -37,6 +37,6 @@ display "For `by' = " `i' ": skewness = " %7.3f skew " ; seskew = "          ///
          %7.3f seskew " ; skewness ratio = " %7.3f skew_ratio                
 display ""                        
 }
-}
+
 end
 exit
